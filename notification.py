@@ -1,5 +1,5 @@
 from gcm import GCM
-gcm = GCM('AIzaSyAJ882Hvz_hEacehne7TOIYn-uUvT0LI9s')
+gcm = GCM('replace with you API key')
 
 
 def send_notification(receivers=None, message):
